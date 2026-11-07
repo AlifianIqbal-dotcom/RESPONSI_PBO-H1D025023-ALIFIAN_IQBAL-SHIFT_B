@@ -1,8 +1,8 @@
 # Sistem Manajemen SPBU - Tugas Praktikum PBO
 
 ## Identitas Mahasiswa
-- **Nama**: [Isi dengan nama lengkap Anda]
-- **NIM**: [Isi dengan NIM Anda]
+- **Nama**: Alifian Iqbal Prabowo
+- **NIM**: H1D025023
 - **Tema**: SPBU (Stasiun Pengisian Bahan Bakar Umum)
 - **Kelas**: [Isi dengan kelas Anda]
 
@@ -218,10 +218,4 @@ PertamaxTurbo implements 2 interface:
 - Interface digunakan untuk polymorphism dan loose coupling
 - State logic branching memberikan business logic yang dinamis berdasarkan kondisi objek
 
-## Lisensi
-Proyek ini dibuat untuk keperluan tugas praktikum Pemrograman Berorientasi Objek.
 
----
-**Dibuat oleh**: [Nama Anda] - [NIM Anda]  
-**Tanggal**: November 2026  
-**Mata Kuliah**: Pemrograman Berorientasi Objek
