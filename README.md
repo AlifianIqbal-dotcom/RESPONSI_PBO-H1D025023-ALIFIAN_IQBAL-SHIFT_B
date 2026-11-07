@@ -4,7 +4,7 @@
 - **Nama**: Alifian Iqbal Prabowo
 - **NIM**: H1D025023
 - **Tema**: SPBU (Stasiun Pengisian Bahan Bakar Umum)
-- **Kelas**: [Isi dengan kelas Anda]
+- **Shift**: B
 
 ## Deskripsi Proyek
 Sistem manajemen SPBU berbasis Java yang menerapkan konsep Object-Oriented Programming (OOP). Sistem ini mengelola berbagai jenis bahan bakar (Pertalite, Pertamax, Pertamax Turbo) dengan fitur perhitungan harga, diskon, bonus poin, dan layanan premium.
